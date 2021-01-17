@@ -8,3 +8,4 @@ ipywidgets==7.5.1
 voila==0.2.4
 pydot==1.4.1
 python-dotenv==0.15.0
+pydotenv==0.0.7
